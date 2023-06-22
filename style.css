@@ -58,6 +58,7 @@ input{
    border: 1px solid #727171;
    border-radius: 10px;
    text-align: right;
+   cursor:auto;
 }
 
 .btn-calculator{
