@@ -66,6 +66,7 @@ input{
    height: 2.1rem;
    background-color: rgb(199, 245, 245);
    margin: 10px;
+   cursor: pointer;
 }
 
 @media (max-width:600px) {
